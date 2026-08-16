@@ -9,5 +9,8 @@
 <p>This is the first file in my new Git Repo.</p>
 <p>I'm learning how Git works by making small changes and pushing them to GitHub.</p>
 style="Screenshot 2026-07-12 125822.png"></div>
+style="Screenshot 2026-07-12 125638.png"></div>
+
 </body>
 </html>
+
